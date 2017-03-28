@@ -47,11 +47,11 @@ Indulge your curiousity and explore the questions that pique your interest.
 
 ## Specifications
 
-- [X] Artifact is a GitHub repo.
-- [ ] 20 exercises are completed from the ["Learn Enough Command Line to be Dangerous"][hartl-command-line] book.
-  - [ ] Solution code for each exercise is included in its own bash file (*.sh).
-  - [ ] Solution code for exercises are stored in a `command-line/` directory of your artifact repo.
-  - [ ] Solution code for each exercise includes a comment with the prompt text for the exercise.
+- [x] Artifact is a GitHub repo.
+- [x] 20 exercises are completed from the ["Learn Enough Command Line to be Dangerous"][hartl-command-line] book.
+  - [x] Solution code for each exercise is included in its own bash file (*.sh).
+  - [x] Solution code for exercises are stored in a `command-line/` directory of your artifact repo.
+  - [x] Solution code for each exercise includes a comment with the prompt text for the exercise.
 - [ ] 20 activities are completed from the [Bash Scripting][ryans-tutorial-bash-scripting] tutorials.
   - [ ] Solution code for each activity is included in its own bash file (*.sh). **Tip**: for the bash-scripting tutorials, check your solutions by executing your bash (.sh) files (type their name in the terminal), instead of writing code directly in the terminal.
   - [ ] Solution code for activities are stored in a `bash-scripting/` directory of your artifact repo.
