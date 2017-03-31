@@ -1,7 +1,7 @@
 # Use the command curl -I https://www.learnenough.com/ to fetch the HTTP header for the Learn Enough website. What is the HTTP status code for the address? How does this differ from the status code for learnenough.com (without the https://)?
 
-# 200 OK
-# 301 Moved Permanently
+200 OK
+301 Moved Permanently
 
 # Using ls, confirm that sonnets.txt exists on your system. How big is it in bytes? Hint: Recall from Section 2.2 that the “long form” of ls displays a byte count.
 ls -l *sonnet.txt
